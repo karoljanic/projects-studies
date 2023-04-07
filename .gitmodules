@@ -19,3 +19,6 @@
 [submodule "probabilistic-methods-and-statistics"]
 	path = probabilistic-methods-and-statistics
 	url = git@github.com:karoljanic/probabilistic-methods-and-statistics.git
+[submodule "databases"]
+	path = databases
+	url = git@github.com:karoljanic/databases.git
