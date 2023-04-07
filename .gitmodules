@@ -1,3 +1,6 @@
 [submodule "mobile-apps"]
 	path = mobile-apps
 	url = https://github.com/karoljanic/mobile-apps
+[submodule "algorithms-and-data-structures"]
+	path = algorithms-and-data-structures
+	url = https://github.com/karoljanic/algorithms-and-data-structures
