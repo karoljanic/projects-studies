@@ -22,3 +22,6 @@
 [submodule "databases"]
 	path = databases
 	url = git@github.com:karoljanic/databases.git
+[submodule "Checkers"]
+	path = Checkers
+	url = https://github.com/karoljanic/Checkers
