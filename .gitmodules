@@ -25,3 +25,6 @@
 [submodule "Checkers"]
 	path = Checkers
 	url = https://github.com/karoljanic/Checkers
+[submodule "network-technologies"]
+	path = network-technologies
+	url = git@github.com:karoljanic/network-technologies.git
