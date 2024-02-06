@@ -41,6 +41,7 @@
 ## Semester 5:
 * ### Formal Languages and Translation Theory:
     * https://github.com/karoljanic/jftt
+    * https://github.com/karoljanic/compiler
 * ### Scientific Computing:
     * https://github.com/karoljanic/scientific-computing
 * ### Metaheuristic Algorithms:
